@@ -1,6 +1,6 @@
- make sure you
- npm init 
- npm install
+ make sure you---
+ (npm init , 
+ npm install)----
  in the command prompt or terminal of the code editor(vs studios) after extracting the project folder 
 
 #Steps after downloading the project and opening the the entire project code in vscode
